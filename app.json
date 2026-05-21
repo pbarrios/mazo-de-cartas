@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Mazo de Cartas",
+    "slug": "mazo-de-cartas",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.mazodecartas.app"
+    }
+  }
+}
